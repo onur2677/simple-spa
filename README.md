@@ -4,6 +4,8 @@
 
 With SimpleSPA you can create simple and useful single page applications !
 
+Live Demo https://onur2677.github.io/simple-spa/example/index.html
+
 ## Descriptions
 
 * SimpleSPA uses ```window.location.hash``` data for routing pages.For example; 
