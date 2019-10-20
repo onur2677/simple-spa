@@ -48,7 +48,7 @@ Live Demo https://onur2677.github.io/simple-spa/example/index.html
             destroy: function () {}
         }
     ```
-* .remove() :  For removing page
+* .destroy() :  For destroying page
     ```js
-        page1.remove()
+        page1.destroy()
     ```
